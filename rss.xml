@@ -4,11 +4,18 @@
         <description><![CDATA[yaobinthen | software development knowledge sharing]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 17:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 17:24:33 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[about]]></title>
+            <description><![CDATA[<article><h1>about</h1><p>me =</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a064482d2bf827b49054b3c216875d38e194226.jpg"></article>]]></description>
+            <link>http://yaobinthen.com/about/index.html</link>
+            <guid isPermaLink="false">1bc4d48f-b296-44e3-ae51-b3b0f1d8d5cb</guid>
+            <pubDate>Mon, 15 Feb 2016 17:23:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[use relay with react-native now]]></title>
-            <description><![CDATA[<article><h1>use relay with react-native now</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ae2a606258c4c604152f236158de0da3c939c88.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>use relay with react-native now</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50f223b63f0aa6297723519f43257d794f5a91c3.jpg"></article>]]></description>
             <link>https://medium.com/@thenyaobin/https-github-com-alvinthen-react-native-relay-node-modules-c34fb865bd72#.vko8qlrpd</link>
             <guid isPermaLink="false">43ebf9a6-805a-4229-855c-5733b004eb82</guid>
             <pubDate>Mon, 15 Feb 2016 17:23:13 GMT</pubDate>
