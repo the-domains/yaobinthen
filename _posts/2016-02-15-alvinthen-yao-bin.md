@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://github.com'
-  name: GitHub
-  favicon: 'https://assets-cdn.github.com/favicon.ico'
-  domain: github.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://github.com/alvinthen'
+inLanguage: en
+starred: false
 keywords:
   - reload
   - feb
@@ -18,17 +17,20 @@ keywords:
   - react-relay
   - swapi
 description: 'alvinthen has 16 repositories written in JavaScript, CSS, and Java. Follow their code on GitHub.'
-inLanguage: en
+datePublished: '2016-02-15T12:09:50.174Z'
+dateModified: '2016-02-15T12:07:03.355Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://github.com/alvinthen'
 title: alvinthen (Yao Bin)
-datePublished: '2016-02-15T12:05:17.312Z'
-dateModified: '2016-02-15T12:04:54.504Z'
 sourcePath: _posts/2016-02-15-alvinthen-yao-bin.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: GitHub
+  domain: github.com
+  url: 'https://github.com'
+  favicon: 'https://assets-cdn.github.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
