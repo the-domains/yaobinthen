@@ -4,28 +4,14 @@
         <description><![CDATA[yaobinthen | software development knowledge sharing]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 13:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 13:38:53 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[about]]></title>
-            <description><![CDATA[<article><h1>about</h1><p>me =</p></article>]]></description>
+            <description><![CDATA[<article><h1>about</h1><p>me =</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3192919a126acc4c734d88def3ec9b538f98e968.png"></article>]]></description>
             <link>http://yaobinthen.com/about-me/index.html</link>
             <guid isPermaLink="false">1bc4d48f-b296-44e3-ae51-b3b0f1d8d5cb</guid>
-            <pubDate>Mon, 15 Feb 2016 13:37:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[use relay with react-native now]]></title>
-            <description><![CDATA[<article><h1>use relay with react-native now</h1><p>react-native-relay-node-modules - fbjs, react-relay and react-native needed to run Relay with React Native</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/260a257cf4215b45aed6e2e74f825a82b109a0f5.jpg"></article>]]></description>
-            <link>https://github.com/alvinthen/react-native-relay-node-modules/tree/master</link>
-            <guid isPermaLink="false">741422d6-e9ca-4058-a471-bdcbc3c1bbef</guid>
-            <pubDate>Mon, 15 Feb 2016 13:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alvinthen (Yao Bin)]]></title>
-            <description><![CDATA[<article><h1>alvinthen (Yao Bin)</h1><p>alvinthen has 16 repositories written in JavaScript, CSS, and Java. Follow their code on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/260a257cf4215b45aed6e2e74f825a82b109a0f5.jpg"></article>]]></description>
-            <link>https://github.com/alvinthen</link>
-            <guid isPermaLink="false">485d472d-fbc8-472a-a1a6-67ec54b56198</guid>
-            <pubDate>Mon, 15 Feb 2016 12:09:50 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 13:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
