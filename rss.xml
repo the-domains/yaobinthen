@@ -4,14 +4,14 @@
         <description><![CDATA[yaobinthen | software development knowledge sharing]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 15:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 15:34:45 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[about]]></title>
-            <description><![CDATA[<article><h1>about</h1><p>me =</p></article>]]></description>
+            <description><![CDATA[<article><h1>about</h1><p>me =</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a8b1b0-3b51-4e45-8462-f5c6746c9a9c.JPG"></article>]]></description>
             <link>http://yaobinthen.com/about-me/index.html</link>
             <guid isPermaLink="false">1bc4d48f-b296-44e3-ae51-b3b0f1d8d5cb</guid>
-            <pubDate>Mon, 15 Feb 2016 15:29:34 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 15:32:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
