@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://medium.com/@thenyaobin/https-github-com-alvinthen-react-native-relay-node-modules-c34fb865bd72#.xpa695c3t'
+isBasedOnUrl: 'https://medium.com/@thenyaobin/https-github-com-alvinthen-react-native-relay-node-modules-c34fb865bd72#.vko8qlrpd'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T15:43:28.301Z'
-dateModified: '2016-02-15T15:43:12.307Z'
+datePublished: '2016-02-15T17:21:27.887Z'
+dateModified: '2016-02-15T17:21:17.675Z'
 author:
   - name: Then Yao Bin
     url: 'https://medium.com/@thenyaobin'
