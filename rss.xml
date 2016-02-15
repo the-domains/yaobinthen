@@ -4,11 +4,11 @@
         <description><![CDATA[yaobinthen | software development knowledge sharing]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 15:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 15:41:08 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[use relay with react-native now]]></title>
-            <description><![CDATA[<article><h1>use relay with react-native now</h1><p>react-native-relay-node-modules - fbjs, react-relay and react-native needed to run Relay with React Native</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a0f2b833a8b4aaeb48de8f1453e2873cf6f836b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>use relay with react-native now</h1><p>react-native-relay-node-modules - fbjs, react-relay and react-native needed to run Relay with React Native</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/260a257cf4215b45aed6e2e74f825a82b109a0f5.jpg"></article>]]></description>
             <link>https://github.com/alvinthen/react-native-relay-node-modules</link>
             <guid isPermaLink="false">65685cf8-a4ac-4ada-8daf-cb1d4b230650</guid>
             <pubDate>Mon, 15 Feb 2016 15:39:03 GMT</pubDate>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>about</h1><p>me =</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a064482d2bf827b49054b3c216875d38e194226.jpg"></article>]]></description>
             <link>http://yaobinthen.com/about-me/index.html</link>
             <guid isPermaLink="false">1bc4d48f-b296-44e3-ae51-b3b0f1d8d5cb</guid>
-            <pubDate>Mon, 15 Feb 2016 15:32:24 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 15:41:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
