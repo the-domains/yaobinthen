@@ -17,8 +17,8 @@ keywords:
   - github
   - json
 description: 'react-native-relay-node-modules - fbjs, react-relay and react-native needed to run Relay with React Native'
-datePublished: '2016-02-15T13:29:07.798Z'
-dateModified: '2016-02-15T13:29:07.015Z'
+datePublished: '2016-02-15T13:32:52.966Z'
+dateModified: '2016-02-15T13:32:49.635Z'
 author: []
 related: []
 app_links: []
