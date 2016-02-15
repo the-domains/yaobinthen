@@ -1,7 +1,7 @@
 name: yaobinthen
 favicon: null
-layout_spectrum: 0.6468912186101079
-typography_spectrum: 0.6723221433348954
+layout_spectrum: 0.3595
+typography_spectrum: 0.25589
 title: 'yaobinthen | software development knowledge sharing'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e2a172'
-    - '#5f6269'
-    - '#5f6169'
-    - '#5e6266'
-    - '#e19d73'
-  brandStrength: 0.43813197989948094
+    - '#070707'
+    - '#fafafa'
+    - '#404040'
+    - '#686868'
+    - '#cacaca'
+  brandStrength: 1
   lightness: 0.0567369784694165
-  saturation: 0.789252596674487
+  saturation: 0.4375
   rhythmicContrast: 0.90076405974105
 purpose: []
