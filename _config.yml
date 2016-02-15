@@ -1,0 +1,28 @@
+name: yaobinthen
+favicon: null
+layout_spectrum: 0.6468912186101079
+typography_spectrum: 0.6723221433348954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.43813197989948094
+  lightness: 0.0567369784694165
+  saturation: 0.789252596674487
+  rhythmicContrast: 0.90076405974105
+purpose: []
