@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://github.com'
-  name: GitHub
-  favicon: 'https://assets-cdn.github.com/favicon.ico'
-  domain: github.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://github.com/alvinthen/react-native-relay-node-modules'
+inLanguage: en
+starred: false
 keywords:
   - react-native
   - node_modules
@@ -18,17 +17,20 @@ keywords:
   - github
   - json
 description: 'react-native-relay-node-modules - fbjs, react-relay and react-native needed to run Relay with React Native'
-inLanguage: en
+datePublished: '2016-02-15T15:39:03.749Z'
+dateModified: '2016-02-15T15:39:03.454Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://github.com/alvinthen/react-native-relay-node-modules'
-title: alvinthen/react-native-relay-node-modules
-datePublished: '2016-02-15T15:35:35.272Z'
-dateModified: '2016-02-15T15:35:19.376Z'
+title: use relay with react-native now
 sourcePath: _posts/2016-02-15-alvinthenreact-native-relay-node-modules.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: GitHub
+  domain: github.com
+  url: 'https://github.com'
+  favicon: 'https://assets-cdn.github.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
