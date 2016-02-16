@@ -17,8 +17,8 @@ keywords:
   - github
   - json
 description: 'react-native-relay-node-modules - fbjs, react-relay and react-native needed to run Relay with React Native'
-datePublished: '2016-02-16T07:27:27.461Z'
-dateModified: '2016-02-16T07:27:26.608Z'
+datePublished: '2016-02-16T07:29:25.174Z'
+dateModified: '2016-02-16T07:29:20.735Z'
 author: []
 related: []
 app_links: []
@@ -37,10 +37,7 @@ _type: MediaObject
 ---
 While waiting for relay to work out-of-box with react-native, I have put together all the required pull requests as listed [here][0].
 
-See the following link to get started.
-
-<article style=""><h1>alvinthen&amp;sol;react-native-relay-node-modules</h1><p>react-native-relay-node-modules - fbjs&amp;comma; react-relay and react-native needed to run Relay with React Native</p><img src="https://avatars0.githubusercontent.com/u/771989?v=3&amp;s=400" /></article>
-
-
+More details [here][1].
 
 [0]: https://github.com/facebook/relay/issues/26#issuecomment-168523524
+[1]: https://github.com/alvinthen/react-native-relay-node-modules
