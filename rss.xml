@@ -4,21 +4,14 @@
         <description><![CDATA[yaobinthen | software development knowledge sharing]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 07:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 07:27:31 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[use relay with react-native now]]></title>
             <description><![CDATA[<article><h1>use relay with react-native now</h1><p>While waiting for relay to work out-of-box with react-native, I have put together all the required pull requests as listed here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a0f2b833a8b4aaeb48de8f1453e2873cf6f836b.jpg"></article>]]></description>
             <link>https://github.com/alvinthen/react-native-relay-node-modules</link>
             <guid isPermaLink="false">18ba6907-5f5b-4376-9509-ff59754264f5</guid>
-            <pubDate>Tue, 16 Feb 2016 07:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[about]]></title>
-            <description><![CDATA[<article><h1>about</h1><p>me =</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a064482d2bf827b49054b3c216875d38e194226.jpg"></article>]]></description>
-            <link>http://yaobinthen.com/about/index.html</link>
-            <guid isPermaLink="false">1bc4d48f-b296-44e3-ae51-b3b0f1d8d5cb</guid>
-            <pubDate>Mon, 15 Feb 2016 17:23:42 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 07:27:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
