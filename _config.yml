@@ -1,6 +1,6 @@
 name: yaobinthen
 favicon: null
-layout_spectrum: 0.63189
+layout_spectrum: 0.6358
 typography_spectrum: 0.63908
 title: 'yaobinthen | software development knowledge sharing'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#7c98b3'
     - '#e5ebea'
     - '#3e2d54'
-  brandStrength: 0.6875
-  lightness: 1
+  brandStrength: 1
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 1
 purpose: []
