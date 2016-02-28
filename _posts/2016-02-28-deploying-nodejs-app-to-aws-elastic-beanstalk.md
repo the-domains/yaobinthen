@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T14:26:06.678Z'
-dateModified: '2016-02-28T14:25:58.714Z'
+datePublished: '2016-02-28T14:39:18.828Z'
+dateModified: '2016-02-28T14:37:32.709Z'
 title: Deploying Node.js app to AWS Elastic Beanstalk
 author: []
 sourcePath: _posts/2016-02-28-deploying-nodejs-app-to-aws-elastic-beanstalk.md
@@ -25,12 +25,18 @@ _type: Article
 # Deploying Node.js app to AWS Elastic Beanstalk
 
 1\. Login to [AWS Console][0].
-
-2\. Create an IAM user to get an access token for use with AWS EB CLI
 ![AWS Console](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4837ce4618403ef09d995391c6b4d466e9a94021.png)
+
+2\. Create an IAM user to get an access key and secret for use with AWS EB CLI.
 ![Create new user](https://the-grid-user-content.s3-us-west-2.amazonaws.com/693e3e14-88e1-435a-92a8-bb8a48b2c0ca.png)
+
+3\. Enter the username.
 ![Choose username](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24230975-c4e4-40ae-91bd-a8d9697668fb.png)
+
+4\. Note down the Access Key ID and Secret Access Key, you will need it later on when configuring the AWS EB CLI.
 ![Save access key and secret](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec1618d-b040-4636-8eba-11724dbd1434.png)
+
+5\. Attach a full access policy to the newly created user. In a more matured environment, the user should be limited to what they are able to do using policies.
 ![Attach policy to the newly created user](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6654700-f5b5-438d-ad7c-b45bf536fddf.png)
 ![Grant admin access for demo purpose](https://s3-us-west-2.amazonaws.com/the-grid-img/p/165d08cee1c4743766262f38a94f85541f7f0a8e.png)
 
