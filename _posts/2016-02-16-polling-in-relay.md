@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: implementing polling in relayjs
-datePublished: '2016-02-16T09:14:28.182Z'
-dateModified: '2016-02-16T09:14:09.509Z'
+datePublished: '2016-02-28T07:56:21.846Z'
+dateModified: '2016-02-28T07:55:49.706Z'
 title: polling in relay
 author: []
+sourcePath: _posts/2016-02-16-polling-in-relay.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-polling-in-relay.md
-published: true
 url: polling-in-relay/index.html
 _type: Article
 
 ---
+Click inside to see how I managed to do polling in Relay.
+
 Recently I have been working on a chat related app using Relay + React Native, and came across a problem that has been a show blocker for a week.
 
 Relay has been designed for infinite scrolling rather than pagination. Due to this nature, getting previous chats were easy, but not for getting newest messages. When you get current available messages, Relay assumes there's no more newer messages. An obvious example is Facebook, you can scroll indefinitely down, but you tends to refresh the page to get the back to the top for newer feeds.
