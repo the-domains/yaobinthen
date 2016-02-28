@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T14:39:18.828Z'
-dateModified: '2016-02-28T14:37:32.709Z'
+datePublished: '2016-02-28T14:42:41.287Z'
+dateModified: '2016-02-28T14:42:18.012Z'
 title: Deploying Node.js app to AWS Elastic Beanstalk
 author: []
 sourcePath: _posts/2016-02-28-deploying-nodejs-app-to-aws-elastic-beanstalk.md
@@ -38,11 +38,13 @@ _type: Article
 
 5\. Attach a full access policy to the newly created user. In a more matured environment, the user should be limited to what they are able to do using policies.
 ![Attach policy to the newly created user](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6654700-f5b5-438d-ad7c-b45bf536fddf.png)
+
+6\. For demo purpose, grant the newly created user administrator access.
 ![Grant admin access for demo purpose](https://s3-us-west-2.amazonaws.com/the-grid-img/p/165d08cee1c4743766262f38a94f85541f7f0a8e.png)
 
-3\. Install and configure AWS EB CLI, follow instructions in the [AWS EB CLI documentation][1].
+7\. Install and configure AWS EB CLI, follow instructions in the [AWS EB CLI documentation][1].
 
-4\. Run following commands in your Node.js project.
+8\. Run following commands in your Node.js project.
 
 * _eb init_
 * _eb __create_
@@ -54,7 +56,7 @@ _eb create_ creates an environment, such as development, staging or production e
 
 _eb deploy_ will copy your project into the EC2 instance, install the dependencies and start your webapp. EB by default will run _main.js_, _server.js_, or _npm star__t _in that order.
 
-5\. Run _eb open_ to open your webapp. Should you unable to access your app, run _eb logs_ to see the errors.
+9\. Run _eb open_ to open your webapp. Should you unable to access your app, run _eb logs_ to see the errors.
 
 # Creating database in AWS RDS
 
@@ -79,6 +81,8 @@ Read on if you're using in-memory datastore or cache in your app.
 
 4\. To get the endpoint of the Redis node that you just created, see the image below.
 ![Redis node endpoint](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8995722-589d-4863-a940-caed6f2a9028.png)
+
+Feel free to drop me an email if you have any further questions.
 
 [0]: https://console.aws.amazon.com/
 [1]: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
