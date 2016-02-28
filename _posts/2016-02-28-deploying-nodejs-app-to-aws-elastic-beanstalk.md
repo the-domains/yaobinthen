@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T14:11:25.613Z'
-dateModified: '2016-02-28T14:11:21.897Z'
+datePublished: '2016-02-28T14:21:24.883Z'
+dateModified: '2016-02-28T14:21:24.022Z'
 title: Deploying Node.js app to AWS Elastic Beanstalk
 author: []
+sourcePath: _posts/2016-02-28-deploying-nodejs-app-to-aws-elastic-beanstalk.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-28-deploying-nodejs-app-to-aws-elastic-beanstalk.md
-published: true
 url: deploying-nodejs-app-to-aws-elastic-beanstalk/index.html
 _type: Article
 
