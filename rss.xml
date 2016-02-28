@@ -4,14 +4,14 @@
         <description><![CDATA[yaobinthen | relieving pains from sw dev]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 14:26:54 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Deploying Node.js app to AWS Elastic Beanstalk]]></title>
             <description><![CDATA[<article><h1>Deploying Node.js app to AWS Elastic Beanstalk</h1><p>2. Create an IAM user to get an access token for use with AWS EB CLI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4837ce4618403ef09d995391c6b4d466e9a94021.png"></article>]]></description>
             <link>http://yaobinthen.com/deploying-nodejs-app-to-aws-elastic-beanstalk/index.html</link>
             <guid isPermaLink="false">def031cb-aa46-483f-8ef1-6f315317cb37</guid>
-            <pubDate>Sun, 28 Feb 2016 14:21:24 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 14:26:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[polling in relay]]></title>
