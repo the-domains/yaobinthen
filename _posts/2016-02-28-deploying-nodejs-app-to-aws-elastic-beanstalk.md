@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T14:42:41.287Z'
-dateModified: '2016-02-28T14:42:18.012Z'
+datePublished: '2016-03-07T12:15:51.696Z'
+dateModified: '2016-03-07T12:15:48.276Z'
 title: Deploying Node.js app to AWS Elastic Beanstalk
 author: []
 sourcePath: _posts/2016-02-28-deploying-nodejs-app-to-aws-elastic-beanstalk.md
@@ -68,6 +68,8 @@ _eb deploy_ will copy your project into the EC2 instance, install the dependenci
 
 4\. After creating the RDS instance, click on it to see the details, you should see the endpoint shown in the image below. Use the endpoint in your Node.js app to access the database. If you cannot access it, make sure the security group that you are using has an inbound rule to allow the port your database is using. For more information on troubleshooting, see this [awesome guide][2] by AWS.
 ![RDS Endpoint](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06842fa0-0300-4488-9cc6-038aba0718ca.png)
+
+# 
 
 # Creating a Redis cluster using AWS ElastiCache
 
