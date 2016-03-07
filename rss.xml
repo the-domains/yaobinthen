@@ -4,11 +4,11 @@
         <description><![CDATA[yaobinthen | tech blog]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 12:16:12 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[An example of running GraphQL in AWS Lambda]]></title>
-            <description><![CDATA[<article><h1>An example of running GraphQL in AWS Lambda</h1><p>swapi-graphql-lambda - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a0f2b833a8b4aaeb48de8f1453e2873cf6f836b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>An example of running GraphQL in AWS Lambda</h1><p>swapi-graphql-lambda - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/260a257cf4215b45aed6e2e74f825a82b109a0f5.jpg"></article>]]></description>
             <link>https://github.com/alvinthen/swapi-graphql-lambda</link>
             <guid isPermaLink="false">461b043b-3041-4cc4-9a75-e9d73d4416ee</guid>
             <pubDate>Mon, 07 Mar 2016 12:03:22 GMT</pubDate>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Deploying Node.js app to AWS Elastic Beanstalk</h1><p>8. Run following commands in your Node.js project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4837ce4618403ef09d995391c6b4d466e9a94021.png"></article>]]></description>
             <link>http://yaobinthen.com/deploying-nodejs-app-to-aws-elastic-beanstalk/index.html</link>
             <guid isPermaLink="false">def031cb-aa46-483f-8ef1-6f315317cb37</guid>
-            <pubDate>Sun, 28 Feb 2016 14:42:41 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 12:15:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[polling in relay]]></title>
