@@ -4,8 +4,15 @@
         <description><![CDATA[yaobinthen | tech blog]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 00:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 00:54:55 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Android ProgressBar not showing]]></title>
+            <description><![CDATA[<article><h1>Android ProgressBar not showing</h1><p>So lately I spent some significant amount of time pondering why my Android ProgressBar is not showing up although the code works correctly. If you have the same problem, take a look in the Developer options in Settings, and make sure the following 3 settings are not turned off.</p></article>]]></description>
+            <link>http://yaobinthen.com/android-progressbar-not-showing/index.html</link>
+            <guid isPermaLink="false">da652758-636c-4f2f-9b82-d5d36cfa28b8</guid>
+            <pubDate>Sat, 26 Mar 2016 00:54:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An example of running GraphQL in AWS Lambda]]></title>
             <description><![CDATA[<article><h1>An example of running GraphQL in AWS Lambda</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/260a257cf4215b45aed6e2e74f825a82b109a0f5.jpg"></article>]]></description>
