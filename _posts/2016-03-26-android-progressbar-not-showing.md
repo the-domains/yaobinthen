@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'So lately I spent some significant amount of time pondering why my Android ProgressBar is not showing up although the code works correctly. If you have the same problem, take a look in the Developer options in Settings, and make sure the following 3 settings are not turned off.'
-datePublished: '2016-03-26T00:58:48.102Z'
-dateModified: '2016-03-26T00:57:45.790Z'
+datePublished: '2016-03-26T01:00:15.172Z'
+dateModified: '2016-03-26T01:00:05.982Z'
 title: Android ProgressBar not showing
 author: []
 sourcePath: _posts/2016-03-26-android-progressbar-not-showing.md
