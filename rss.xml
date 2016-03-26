@@ -4,7 +4,7 @@
         <description><![CDATA[yaobinthen | tech blog]]></description>
         <link>http://yaobinthen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 00:36:35 GMT</lastBuildDate>
         <atom:link href="http://yaobinthen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[An example of running GraphQL in AWS Lambda]]></title>
@@ -26,13 +26,6 @@
             <link>http://yaobinthen.com/polling-in-relay/index.html</link>
             <guid isPermaLink="false">f95eb703-210c-49b3-beb0-15704f2a05d3</guid>
             <pubDate>Sun, 28 Feb 2016 07:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[use relay with react-native now]]></title>
-            <description><![CDATA[<article><h1>use relay with react-native now</h1><p>While waiting for relay to work out-of-box with react-native, I have put together all the required pull requests as listed here.</p></article>]]></description>
-            <link>https://github.com/alvinthen/react-native-relay-node-modules</link>
-            <guid isPermaLink="false">18ba6907-5f5b-4376-9509-ff59754264f5</guid>
-            <pubDate>Wed, 24 Feb 2016 08:47:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
