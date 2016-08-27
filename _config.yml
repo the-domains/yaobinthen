@@ -1,8 +1,19 @@
+layout_spectrum: 0.61624
+typography_spectrum: 0.29682665900327265
+color:
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+  brandStrength: 0.7866171768400818
+  lightness: 0.5848629521206021
+  saturation: 0.13629767554812133
+  rhythmicContrast: 0.4967343534808606
 name: yaobinthen
 favicon: null
-layout_spectrum: 0.61624
-typography_spectrum: 0.63908
-title: 'yaobinthen | tech blog'
+title: yaobinthen | tech blog
 cta:
   domain: null
   bucket: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#721817'
-    - '#fa9f42'
-    - '#0b6e4f'
-    - '#e0e0e2'
-    - '#98959e'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 1
 purpose: []
