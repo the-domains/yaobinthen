@@ -1,4 +1,3 @@
-layout_spectrum: 0.61624
 typography_spectrum: 0.29682665900327265
 color:
   brandColors:
@@ -11,19 +10,26 @@ color:
   lightness: 0.5848629521206021
   saturation: 0.13629767554812133
   rhythmicContrast: 0.4967343534808606
-name: yaobinthen
-favicon: null
-title: yaobinthen | tech blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73797886-1
-  facebook: null
-  twitter: null
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.61624
+analytics:
+  google: UA-73797886-1
+  facebook: null
+  twitter: null
+author:
+  name: Yao Bin Then
+  email: alvinthen890703@gmail.com
+  url: yaobinthen.com
+name: yaobinthen
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: yaobinthen | tech blog
+content: []
 purpose: []
